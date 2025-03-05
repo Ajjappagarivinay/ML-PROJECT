@@ -96,11 +96,14 @@ Hyperparameter tuning.
 
 Deploying the model as a web application.
 
-License
+## Author - Ajjappagari Vinay
 
-This project is licensed under the MIT License.
+This project is part of my portfolio, showcasing the Machine Learning  skills essential for data analyst and data science  roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
 
-Author
 
-Vinay
+**LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/ajjappagari-vinay-862752280/)
+**GITHUB**: [Connect with me professionally](https://github.com/Ajjappagarivinay)
+
+
+Thank you for your support, and I look forward to connecting with you!
 
